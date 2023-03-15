@@ -10,8 +10,6 @@ import ParticlesBg from "particles-bg";
 import { Component } from "react";
 import React from "react";
 
-// APi Key: f5380ce36e47464bb523f2f3897b175e
-// ImageUrl: https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGZhY2V8ZW58MHx8MHx8&w=1000&q=80
 
 
 
